@@ -27,7 +27,8 @@ WE2, a holding company for Registered Investment Advisors (RIA) AlphaSource Inve
 [RGN DASHBOARD](http://www.rgndashboard.com) 
 
 
-Financial Investment Team, February 2012 http://www.fi-team.com 
+### Financial Investment Team, February2012
+[FI-TEAM](http://www.fi-team.com)
 Financial Investment Team is a financial services business specializing in direct asset management. It partners with the tax and accounting services provided by Diana LJ Harrison CPA, P.C. These two companies together add up to a comprehensive tax and financial package in one office. This means that you will be working with a highly trained, experienced and passionate professional that will constantly reach for the highest standards that the changing demands of this economic environment call for. We feel this is the way to provide the service you deserve.
 
 It started with two guys on a mission. Educate all American’s on how to be financially self-reliant. The vision was born and quickly became a national quest as The Retirement Guys declared independence by launching a national network with other Investment Professionals across the U.S. Nolan Baker and Mark Clair, founders and co-owners of the Retirement Guys Network, declare this your day of independence, bringing together like-minded Investment Professionals to share valuable financial resources across America.

@@ -1,13 +1,13 @@
 # NEXT Financial Group, Inc.
 
-These are websites I built for NEXT Financial Group, Inc. and NEXT Representatives. Some of these websites are are no longer in use or have been changed last time I worked on them.
+These are websites I built for NEXT Financial Group, Inc. and NEXT Representatives. Some of these websites are no longer in use or have been changed last time I worked on them.
 
 ## Websites
 
 ### NEXT Financial Group, Inc.
 [NEXT](http://www.nextfinancial.com)
 
-An independent broker/dealer offering back office support and ownership opportunities for financial advisors.
+An independent broker/dealer offering back office support and ownership opportunities for financial advisors. HI HI HI
 
 ### JC + 1, January 2011
 [JCPLUS1](http://www.jcplus1.com)
